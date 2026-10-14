@@ -1,6 +1,6 @@
 {
  "event": "fw2026",
- "saved_at": "2026-10-11T13:21:02.229Z",
+ "saved_at": "2026-10-14T21:17:09.000Z",
  "rows": [
   [
    "Duke Family Weekend Budget",
@@ -11,7 +11,7 @@
   ],
   [
    "Total Estimated Attendance",
-   "128",
+   "130",
    "",
    "",
    ""
@@ -27,21 +27,21 @@
    "Fee Collected ($12/person)",
    "",
    "",
-   "$1,536.00",
+   "$1,560.00",
    ""
   ],
   [
    "Donation",
    "",
    "",
-   "$175.00",
+   "$185.00",
    ""
   ],
   [
    "Total Estimated Receipts",
    "",
    "",
-   "$1,711.00",
+   "$1,745.00",
    ""
   ],
   [
@@ -67,16 +67,16 @@
   ],
   [
    "Snacks - 40 Count Granola Bar",
-   "3",
+   "4",
    "$18.00",
-   "$54.00",
+   "$72.00",
    "Costco"
   ],
   [
    "Lunch – Tray Order",
-   "12",
+   "16",
    "$60.00",
-   "$720.00",
+   "$960.00",
    "TaiPei101 (Order 6 dishes and put them on 24 half trays for 4 groups. 101 will provide 4 trays of rice and 80 pairs of chopsticks.)"
   ],
   [
@@ -88,9 +88,9 @@
   ],
   [
    "Costco Pizza",
-   "24",
+   "23",
    "$11.00",
-   "$264.00",
+   "$253.00",
    ""
   ],
   [
@@ -146,21 +146,21 @@
    "Tax Estimated",
    "",
    "",
-   "$28.69",
+   "$30.04",
    "NC Sales Tax"
   ],
   [
    "Total Estimated Cost",
    "",
    "",
-   "$1,477.79",
+   "$1,726.14",
    ""
   ],
   [
    "Estimated Net Balance",
    "",
    "",
-   "$383.21",
+   "$168.86",
    ""
   ],
   [
